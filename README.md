@@ -33,14 +33,16 @@ Before running, ensure the following compatible library versions are installed:
     matplotlib
     seaborn
 
-## Dataset
-### File Used: /content/drive/MyDrive/Combined Data.csv
+## 📂 Dataset
 
-Columns:
+### The data can be accessed through this link  
+[ Click here to open dataset](https://drive.google.com/file/d/1lHFeBi7_gky2ZYcz4Aij7oy66sUpZGxZ/view?usp=sharing)
 
--***statement*** → Input text
+**Columns:**
 
--***status*** → Target class label (mental health category)
+- ***statement*** → Input text  
+- ***status*** → Target class label (mental health category)
+
 
 ## Data Preprocessing Steps
   Converted text to lowercase
